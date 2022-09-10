@@ -9,4 +9,7 @@
 3. Automate package/program installations
     - winget
     - chocolately
+4. Configure your terminal emulator(s)
+   - Windows terminal
+   - ConEMU and others
 
