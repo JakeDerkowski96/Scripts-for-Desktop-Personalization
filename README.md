@@ -6,4 +6,7 @@
    - [Add/remove the items 'New' submenu](https://github.com/JakeDerkowski96/Scripts-for-Desktop-Personalization/tree/uno/ContextMenu/NewMenuItems)
    - Remove other lame stuff
 2, something else that is ultimately a waste of time
+3. Automate package/program installations
+    - winget
+    - chocolately
 
