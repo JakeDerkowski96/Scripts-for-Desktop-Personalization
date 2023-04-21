@@ -2,6 +2,9 @@
 
 ### Things this repo does
 
+
+## Windows Environments
+
 1. Personalize the Windows 10/11 'Context Menu'
    - [Add/remove the items 'New' submenu](https://github.com/JakeDerkowski96/Scripts-for-Desktop-Personalization/tree/uno/ContextMenu/NewMenuItems)
    - Remove other lame stuff
@@ -13,3 +16,7 @@
    - Windows terminal
    - ConEMU and others
 
+
+## UNIX/Linux Environments
+
+these scripts were written within a recent Ubuntu version, should work without erros on debian-based systems. 
