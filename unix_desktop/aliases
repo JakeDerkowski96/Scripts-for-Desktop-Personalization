@@ -1,6 +1,3 @@
-alias user_home="cd '/mnt/c/Users/$HOME'"
-alias my1drive="cd /mnt/c/Users/$HOME/OneDrive"
-
 alias cls='clear'
 
 alias update='sudo apt-get update'
